@@ -8,9 +8,9 @@ The learning journey **"Becoming an SAP BTP Solution Architect"** is a comprehen
 
 In this repository, you will find three case studies related to the SAP BTP methodologies:
 
-- **SAP Application Extension Methodology**
-- **SAP Data and Analytics Advisory Methodology**
-- **SAP Integration Solution Advisory Methodology**
+- [**SAP Application Extension Methodology**](https://help.sap.com/docs/sap-btp-guidance-framework/sap-application-extension-methodology/sap-application-extension-methodology-overview)
+- [**SAP Data and Analytics Advisory Methodology**](https://community.sap.com/t5/technology-blogs-by-sap/release-of-sap-data-and-analytics-advisory-methodology/ba-p/13549970)
+- [**SAP Integration Solution Advisory Methodology**](https://help.sap.com/docs/sap-btp-guidance-framework/sap-integration-solution-advisory-methodology/sap-integration-solution-advisory-methodology-overview?locale=en-US)
 
 These case studies are designed to present realistic scenarios and challenges that you might encounter as an SAP BTP Solution Architect.
 
